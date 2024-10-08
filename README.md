@@ -3,7 +3,7 @@ Algorithm:
 Step 1: Make a list called "Even numbers".  
 Step 2: let n = the first number from the left of the list.  
 Step 3: Divide n by 2.  
-Step 4: If result == an integer (No fraction or decimal) add that number to the "Even numbers" list. move n to the next number then go to step 3. If result ≠ an integer then move n to the next number then go to step 3
+Step 4: If result == an integer (No fraction or decimal) add that number to the "Even numbers" list. move n to the next number then go to step 3. If result ≠ an integer then move n to the next number then go to step 3  
 Step 5: Displays the "Even numbers" list when all numbers has been processed.  
 
 Output:  
